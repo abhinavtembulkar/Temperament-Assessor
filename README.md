@@ -1,3 +1,3 @@
-# movie-review-sentiment-prediction
+# Temperament Assessor
 
-This model predicts positive or negative review based on a simple movie review dataset. Uses SWEM model for sentiment analysis.
+<b>This Deep learning model predicts sentiment of a given movie review. Based on SWEM (Simple Word Embeddings Model), achieves a test accuracy of 95%.</b>
